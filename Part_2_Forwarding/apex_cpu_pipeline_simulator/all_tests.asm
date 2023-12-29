@@ -1,0 +1,22 @@
+---TC 1------
+MOVC R0,#3
+ADD R0,R0,R0
+HALT
+
+
+
+
+
+---TC 2------
+MOVC R0,#8
+MOVC R1,#2
+MOVC R2,#0
+SUB R0,R0,R1CMP R0,R2BNZ #-8
+BNP #20
+SUBL R0,#2
+NOP
+NOP
+NOP
+HALT 
+
+
