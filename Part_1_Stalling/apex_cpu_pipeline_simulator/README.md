@@ -1,5 +1,5 @@
-# APEX Pipeline Simulator v2.0
-A template for 5 Stage APEX In-order Pipeline
+# APEX Pipeline Simulator 
+A 5 Stage APEX In-order Pipeline
 
 ## Notes:
 
@@ -39,10 +39,5 @@ A template for 5 Stage APEX In-order Pipeline
 
 ## Author
 
- - Copyright (C) Gaurav Kothari (gkothar1@binghamton.edu)
- - State University of New York, Binghamton
+ - Karthik Shanmugam
 
-## Bugs
-
- - Please contact your TAs for any assistance or query
- - Report bugs at: gkothar1@binghamton.edu
